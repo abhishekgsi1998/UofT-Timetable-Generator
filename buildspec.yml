@@ -13,4 +13,4 @@ phases:
       - echo Build started on `date`
 artifacts:
   files:
-    - .\CSharpHelloWorld\bin\Debug\*
+    - .\src\bin\Debug\*
